@@ -131,8 +131,10 @@ tree
 tree ruta/
 ```
 
-> [!TIP] Copia de archivos que pertenecen a root
+> [!TIP]
+> **Copia de archivos que pertenecen a root**
 > Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
+>
 > En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
 
 ### Atajos en la Shell
