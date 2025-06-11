@@ -133,6 +133,7 @@ tree ruta/
 
 > [!TIP]
 > **Copia de archivos que pertenecen a root**
+>
 > Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 > En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -639,7 +640,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
@@ -1542,7 +1543,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
@@ -2209,7 +2210,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
@@ -2875,7 +2876,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
@@ -3542,7 +3543,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
@@ -4209,7 +4210,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
@@ -5104,7 +5105,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
@@ -5791,7 +5792,7 @@ locate -r "/sources.list$"
 ```
 
 ### Comando FIND
->[!danger]
+>[!CAUTION]
 >Comando super importante de dominar como administrador.
 
 - Busca de forma recursiva en un directorio todos los ficheros que cumplan ciertas condiciones.
