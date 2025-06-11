@@ -1,6 +1,7 @@
 # Comandos de Linux: desde cero hasta programar Shell Script
 
 ## Índice
+
 - [Games to practice commands](#games-to-practice-commands)
 - [Comandos del sistema de ficheros](#comandos-del-sistema-de-ficheros)
   - [Crear, mover, copiar y borrar ficheros y directorios](#crear-mover-copiar-y-borrar-ficheros-y-directorios)
@@ -294,7 +295,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -325,13 +326,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
@@ -1197,7 +1198,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -1228,13 +1229,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
@@ -1864,7 +1865,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -1895,13 +1896,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
@@ -2530,7 +2531,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -2561,13 +2562,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
@@ -3197,7 +3198,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -3228,13 +3229,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
@@ -3864,7 +3865,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -3895,13 +3896,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
@@ -4759,7 +4760,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -4790,13 +4791,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
@@ -5446,7 +5447,7 @@ Hasta el día de hoy Debian utilizaba un solo archivo para obtener los repositor
 A partir de Debian 12 se ha modularizado -> `/etc/sources.list.d/`
 Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
->[!info]
+>[!NOTE]
 >Es importante conocer el nombre en clave de la distribución -> Debian 12 = Bookworm
 
 **Cómo añadir las fuentes para el APT en un archivo**
@@ -5477,13 +5478,13 @@ Y se debe de añadir un servicio CDN para que funcione el comando APT.
 
 ---
 ## Manejo de texto
->[!warning]
+>[!WARNING]
 >**¿Por qué es importante?**
 >Configuraciones se guardan en ficheros de texto.
 >Los logs también son en formato texto.
 >Cualquier programa en modo consola que muestra resultados mediante texto.
 
->[!info]
+>[!NOTE]
 >Dominar esto ayuda muchísimo como administrador del servidor.
 
 ### Mostrar y filtrar texto
