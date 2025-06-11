@@ -131,7 +131,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -192,7 +192,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
@@ -738,7 +738,7 @@ find /etc/ -iname '*.conf' -size -1M -exec cp '{}' /home/copias/ ';'
 find ~ -size +2G -exec rm '{}' ';'
 ```
 
->[!tip]
+>[!TIP]
 >Sigue la filosofía de "divide y vencerás":
 >Empieza por un comando y ve acumulando pipes hasta llegar al resultado deseado.
 
@@ -1034,7 +1034,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -1095,7 +1095,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
@@ -1701,7 +1701,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -1762,7 +1762,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
@@ -2367,7 +2367,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -2428,7 +2428,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
@@ -3034,7 +3034,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -3095,7 +3095,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
@@ -3701,7 +3701,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -3762,7 +3762,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
@@ -4596,7 +4596,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -4657,7 +4657,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
@@ -5283,7 +5283,7 @@ tree
 tree ruta/
 ```
 
->[!tip] Copia de archivos que pertenecen a root
+>[!TIP] Copia de archivos que pertenecen a root
 >Archivos que pertenecen a root podrían llegar a ser copiados por otros usuarios y luego llegar a ver el contenido que antes no se les permitía.
 >
 >En cambio si se mueve, el propietario se respeta y con los respectivos permisos.
@@ -5344,7 +5344,7 @@ ls c[A-Z]s*
 ls informe-200[1-9].txt
 ```
 
-> [!tip]
+> [!TIP]
 > Resultará útil consultar `man bash` y buscar `Concordancia`:
 > /Concordancia + n (seguir buscando hasta llegar a la sección)
 
